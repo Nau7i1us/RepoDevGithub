@@ -1,5 +1,3 @@
 Fichier texte1 CdP local
 Fichier texte2 CdP local
 Fichier texte3 CdP local
-Fichier texte4 CdP local
-Fichier texte5 CdP local
